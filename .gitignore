@@ -1,0 +1,5 @@
+*.exe
+dbg
+main
+.vscode
+.vscode/
